@@ -1,2 +1,2 @@
 # New-Repo
-My first alx pathway repository
+My first ALX pathway repository
